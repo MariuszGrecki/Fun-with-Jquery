@@ -1,0 +1,29 @@
+#accordion {
+    width: 400px;
+    margin: 0px auto;
+    border-bottom: 1px solid black;
+}
+
+#accordion h4 {
+    background-color: rgb(192, 187, 187);
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 0px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#accordion h4:hover {
+    background-color: rgb(175, 169, 169);
+
+}
+
+#accordion p {
+    background-color: rgb(228, 227, 227);
+    border: 1px solid black;
+    border-bottom: none;
+    border-top: none;
+    margin: 0px;
+    padding: 15px;
+    
+}
